@@ -14,3 +14,14 @@ eventually will make #2 the master
 but will need to sync up with LBLnet/CPP to move the cloudflare config.
 But any future reference will use #2,
 eg work with IPO office.
+
+
+~~~~
+
+"About Smelly"
+GDoc at https://docs.google.com/document/d/15iT7JAdbxRHTTNEQoqv4iiyViBtWZzZldfrI_CrsHNM/edit?usp=sharing
+https://docs.google.com/document/d/15iT7JAdbxRHTTNEQoqv4iiyViBtWZzZldfrI_CrsHNM
+
+actually, if crate an about.html 
+that should work 
+README was downloaded cuz that was an rst not openable by browser

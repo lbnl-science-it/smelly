@@ -2,16 +2,12 @@
 Smelly
 ======
 
-.. figure:: figures/smelly+license.png
-        :align: center
-        :alt: smelly web app screenshot
-
-Smelly is an interactive webtool displaying odor dispersion from various potential waste-to-energy sites across California.  It currently display data for dry anaerobic digestion technology with organic waste intake of 90,000 tons per year.  Please note that data and model is preliminary at this point.  Additional data collection, modeling and research is needed.
+Smelly is an interactive webtool displaying odor dispersion from various potential waste-to-energy sites across California.  It currently displays data for dry anaerobic digestion technology with organic waste intake of 90,000 tons per year.  Please note that data and model is preliminary at this point.  Additional data collection, modeling and research is needed.
 
 * Odor is very subjective. Unpleasant odors in 5 to 10 ou/m^3 range usually trigger complaints.
 * Model assume a dry Anaerobic Digestion facility similar to ZWEDC with full capacity of 90,000 ton/year for organic waste.
 * Map represents the top 2 percentile in the distribution of the simulated odor concentrations over a three year period. 
-* Odor dispersion patterns from individual and combined odor emitting sources at the facility are displayed, geographic and meteorological conditions for each potential site are modeleted, but no such plan exist nor are they actually planned. 
+* Odor dispersion patterns from individual and combined odor emitting sources at the facility are displayed, geographic and meteorological conditions for each potential site are modeleted, but no such plan exists nor are they actually planned. 
 * The facility assumes bagged outdoor composting as practiced at ZBest.
 * Additional funding would be needed for data collection and further refine the models, they are very preliminary and used for demo purposes only.
 
