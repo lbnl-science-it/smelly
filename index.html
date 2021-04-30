@@ -17,7 +17,7 @@ Work for 26 sites
 
 enable gtag and adjust title before deploying to production.
 
-tin 2019.05.12, 2019.1028
+tin 2019.05.12, 2019.1028, 2021.0430
 -->
 <head>
     <meta charset='utf-8' />
@@ -1073,11 +1073,12 @@ var map = new mapboxgl.Map({
     //zoom: 15    	// see buildings, needed cuz 50m x 50m (or 25m?)
     //zoom: 14.2  	// zoomed in and good for zwedc demo with many low value data points // 1000 ft
     //zoom: 13.5  	// zoomed in
+    zoom: 12.7		
     //zoom: 12		// see whole coverate area of ZWEDC
     //zoom: 10          // circle filled point data is said to be z0-z10, 10+ will "appear simplified"  // ## TMP
     //zoom: 9		// see most of BAAQMD   // 5mi 
     //zoom: 8		// site-info as polygon said to be good at z0-z8.  8+ will "appear simplified"
-    zoom: 6.1  		// see most of CA  	// 50mi    ## smelly overview map ## FIXME come back to this after debug
+    //zoom: 6.1  		// see most of CA  	// 50mi    ## smelly overview map ## FIXME come back to this after debug
     //zoom: 5.5		// see whole CA
     
 });

@@ -2,10 +2,10 @@
 Smelly
 ======
 
-.. figure:: figures/smelly_screenshot.jpg
+.. figure:: figures/smelly_sac.jpg
         :align: center
         :alt: smelly web app screenshot
-.. figure:: figures/smelly_screenshot.jpg
+.. figure:: figures/smelly_sac2salinas.jpg
         :align: center
         :alt: smelly web app screenshot
 
@@ -46,3 +46,6 @@ Tin Ho, Wei Zhou, Ling Jin, Tyler Huntington, Corinne Scown.
 
 
 
+.. figure:: figures/smelly_calc_allowableOdorEmission.jpg
+        :align: center
+        :alt: smelly web app screenshot
